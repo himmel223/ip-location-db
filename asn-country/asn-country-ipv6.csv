@@ -9367,8 +9367,11 @@
 2001:df4:ed80::,2001:df4:ed80:ffff:ffff:ffff:ffff:ffff,BD
 2001:df4:edc0::,2001:df4:edc0:ffff:ffff:ffff:ffff:ffff,IN
 2001:df4:ee00::,2001:df4:ee00:ffff:ffff:ffff:ffff:ffff,HK
+2001:df4:ee40::,2001:df4:ee40:ffff:ffff:ffff:ffff:ffff,VN
 2001:df4:ee80::,2001:df4:ee80:ffff:ffff:ffff:ffff:ffff,AU
+2001:df4:eec0::,2001:df4:eec0:ffff:ffff:ffff:ffff:ffff,VN
 2001:df4:ef00::,2001:df4:ef00:ffff:ffff:ffff:ffff:ffff,BD
+2001:df4:ef40::,2001:df4:ef40:ffff:ffff:ffff:ffff:ffff,VN
 2001:df4:ef80::,2001:df4:ef80:ffff:ffff:ffff:ffff:ffff,IN
 2001:df4:f080::,2001:df4:f080:ffff:ffff:ffff:ffff:ffff,TH
 2001:df4:f100::,2001:df4:f100:ffff:ffff:ffff:ffff:ffff,ID
